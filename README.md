@@ -1,16 +1,15 @@
-# food_delivery
+# Food Delivery App
+Welcome to the Food Delivery App! This application allows users to browse a wide variety of food categories, select their favorites, place orders, and manage their personal profiles, all in one convenient platform.
 
-A new Flutter project.
+<h3>Features</h3>
+<ul>
+<li>Browse Food Categories: Explore an extensive list of food items categorized by cuisine, type, and dietary preferences.</li>
+<li>Favorites: Add your favorite dishes to a dedicated favorites section for quick access later.</li>
+<li>Order Functionality: Easily place orders for multiple items from different categories and track your orders in real-time.</li>
+<li>User Profile: Create and manage your own profile, including address, payment options, and order history.</li>
+<li>Search & Filters: Quickly find specific dishes or restaurants with advanced search and filtering options.</li>
+</ul>
 
-## Getting Started
+## Watch Our Introduction Video
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Birzeit Sport Introduction](https://img.youtube.com/vi/SiYaqvr9c9g/0.jpg)](https://www.youtube.com/watch?v=SiYaqvr9c9g)
